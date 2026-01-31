@@ -594,7 +594,7 @@ visNetwork(nodes, edges, main = "Interactive DNA of Technology and  Anxiety",
 ```
 
 
-## **Summary and Conclusion**
+## **6.Summary and Conclusion**
 
 In this project, several text mining techniques were used to study online discussions related to AI, job security, and anxiety. By examining how people talk about these topics across different Reddit communities, the analysis aimed to better understand what drives work-related anxiety in the current context.
 
@@ -605,7 +605,7 @@ At the same time, AI and automation may still play an important indirect role. T
 This project can be further extended by applying deeper analysis, such as studying trends over longer time periods, using more advanced sentiment or emotion detection techniques, or examining user-level behavior across discussions. Such extensions could provide a more detailed understanding of how technological change and market conditions together shape work-related anxiety.
 
 
-## **Appendix**
+## **7.Appendix**
 
 ### **Code and Data Availability**
 

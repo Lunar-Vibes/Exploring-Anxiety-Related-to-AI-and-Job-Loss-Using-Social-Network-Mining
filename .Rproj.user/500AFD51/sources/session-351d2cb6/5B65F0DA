@@ -3,7 +3,7 @@
     "path": "C:/Users/shahe/3. 2. TMSMM/Project/text_mining_project.Rmd",
     "project_path": "text_mining_project.Rmd",
     "type": "r_markdown",
-    "hash": "2995413314",
+    "hash": "3250328111",
     "contents": "",
     "dirty": false,
     "created": 1769770412118.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "649,0",
-        "scrollLine": "636"
+        "cursorPosition": "596,7",
+        "scrollLine": "580"
     },
     "folds": "",
-    "lastKnownWriteTime": 1769862691,
+    "lastKnownWriteTime": 1769863360,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1769862691649,
+    "last_content_update": 1769863360290,
     "read_only": false,
     "read_only_alternatives": []
 }
