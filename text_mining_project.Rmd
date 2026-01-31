@@ -559,6 +559,8 @@ word_cors_full %>%
 ```
 
 
+**Interactive DNA of Technology and  Anxiety**
+
 An interactive version of the network was also created using visNetwork. This allows users to explore relationships by dragging nodes and visually inspecting how concepts from AI, job insecurity, and anxiety are connected.
 
 ```{r INTERECTIVE, echo=FALSE, message=FALSE, warning=FALSE}
