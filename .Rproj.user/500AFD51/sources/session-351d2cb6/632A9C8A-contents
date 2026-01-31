@@ -1,0 +1,4 @@
+install.packages(c("topicmodels", "widyr", "textstem", "fmsb", "spacyr"))
++
+  
+install.packages("ggvenn")
