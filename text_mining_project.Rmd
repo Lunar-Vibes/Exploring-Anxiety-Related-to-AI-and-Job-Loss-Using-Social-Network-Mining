@@ -21,6 +21,10 @@ output:
 
 ## **1.Introduction**
 ![](image1.PNG)
+ 
+**Source:** Indiatoday,Image generated using AI
+
+
 The rapid growth of Artificial Intelligence (AI) is changing the way people work. While AI brings new opportunities and improvements in efficiency, it has also created growing concerns about job security, automation, and the risk of losing employment. Many people express these worries online, sharing their thoughts, fears, and personal experiences about how AI may affect their careers and the future of work.
 
 Social media platforms provide an important space where such concerns are openly discussed. Reddit, in particular, hosts many focused communities where users talk in detail about jobs, career uncertainty, and the impact of new technologies. Conversations about AI and job loss often reveal strong emotional reactions, including stress, fear, and anxiety, coming from people across different professions.
